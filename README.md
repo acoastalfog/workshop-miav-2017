@@ -10,5 +10,6 @@ MIAV2017 Workshop @ SC17
     * ```` conda install -c conda-forge vtk ````
   * ITK 4.12.0
     * ```` conda install -c conda-forge itk ````
-    
+  * OpenCV 3.3.0
+    * ```` conda install -c conda-forge opencv ````
     
