@@ -10,6 +10,10 @@ MIAV2017 Workshop @ SC17
     * ```` conda install -c conda-forge vtk ````
   * ITK 4.12.0
     * ```` conda install -c conda-forge itk ````
+  * Pillow
+    * ```` conda install -c conda-forge pillow ````
   * OpenCV 3.3.0
-    * ```` conda install -c conda-forge opencv ````
-    
+    * ```` conda install -c conda-forge opencv3 ````
+  * pymeanshift
+    * https://github.com/fjean/pymeanshift
+    * Installation Mechanics Vary
