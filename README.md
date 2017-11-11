@@ -17,3 +17,5 @@ MIAV2017 Workshop @ SC17
   * pymeanshift
     * https://github.com/fjean/pymeanshift
     * Installation Mechanics Vary
+  * PyTorch 0.2
+    * ```` conda install pytorch torchvision cuda80 -c soumith ```` 
