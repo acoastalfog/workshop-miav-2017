@@ -14,6 +14,8 @@ MIAV2017 Workshop @ SC17
     * ```` conda install -c conda-forge pillow ````
   * OpenCV 3.3.0
     * ```` conda install -c conda-forge opencv3 ````
+  * webcolors
+    * ```` conda install -c conda-forge webcolors ````
   * pymeanshift
     * https://github.com/fjean/pymeanshift
     * Installation Mechanics Vary
